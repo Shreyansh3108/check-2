@@ -56,7 +56,8 @@
 - Lightweight, fast, and perfect for **scalable web apps**
 - Easy to integrate with frontend and third-party services
 
-### 🍃 MongoDB (Database)
+### 🍃 MongoDB (Database)<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/9640f33b-44ee-417b-86e4-ec4c317665a9" />
+
 - NoSQL database → **flexible schema** for evolving features
 - Great for handling **user data, orders, and transactions**
 - Scales well with growing data

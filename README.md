@@ -12,12 +12,10 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="Screenshot (87).png" width="700" alt="Dashboard Preview" />
-  <br/>
-  <img src="project-orders.png" width="700" alt="Orders Preview" />
+  <img src="Screenshot (87).png" width="600" alt="Dashboard Preview" />
+  <br/><br/>
+  <img src="project-orders.png" width="600" alt="Orders Preview" />
 </p>
-
-> (Replace `project-dashboard.png` and `project-orders.png` with your actual image names)
 
 ---
 
@@ -56,8 +54,7 @@
 - Lightweight, fast, and perfect for **scalable web apps**
 - Easy to integrate with frontend and third-party services
 
-### 🍃 MongoDB (Database)<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/9640f33b-44ee-417b-86e4-ec4c317665a9" />
-
+### 🍃 MongoDB (Database)
 - NoSQL database → **flexible schema** for evolving features
 - Great for handling **user data, orders, and transactions**
 - Scales well with growing data

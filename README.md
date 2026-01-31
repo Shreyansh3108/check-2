@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/d5c13248-7403-469b-b0cb-4946d831afcf" />
 # 🚀 MCP360 – Micro Collection Partner System
 
 ## 🧰 Tech Stack
